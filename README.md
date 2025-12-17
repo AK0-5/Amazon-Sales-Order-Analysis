@@ -11,3 +11,17 @@ The primary objective of this project is to analyze Amazon sales and order perfo
  - Total Sizes: Indicates the number of distinct product sizes available.
  - Total Categories: Shows the variety of product categories included in the sales data.
  - Total Products: Represents the total count of unique products sold.
+
+## Dashboard:
+<img width="1919" height="984" alt="Amazon Sales Dashboard" src="https://github.com/user-attachments/assets/06a511a7-5cb7-494e-afcc-5fbd50a5c0c1" />
+
+## Project Insights:
+- Sales Trends: Weekly sales and quantities fluctuate across categories, helping identify peak and low-performing periods.
+- Order Fulfillment: Over 94% of orders are successfully shipped, reflecting strong logistics efficiency and minimal cancellations.
+- Sales Channels: Amazon dominates sales, while non-Amazon channels contribute insignificantly.
+- Regional Performance: Maharashtra, Karnataka, Tamil Nadu, Telangana, and Uttar Pradesh lead in sales volume.
+- Size Demand: Medium and large sizes (M, L, XL) are most preferred, whereas larger sizes show low demand.
+- Shipping Preference: Expedited shipping is more common in high-sales regions, indicating demand for faster delivery.
+  
+## Final Conclusion:
+The dashboard provides a clear view of sales, logistics efficiency, and customer demand patterns, showing strong fulfillment performance, high dependence on Amazon, and clear regional and size-based sales trends.
