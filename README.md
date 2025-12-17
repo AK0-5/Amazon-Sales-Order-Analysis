@@ -5,7 +5,7 @@ The primary objective of this project is to analyze Amazon sales and order perfo
 ## Dataset used:
 <a href="https://github.com/AK0-5/Amazon-Sales-Order-Analysis/blob/main/Amazon%20Sale%20Report.xlsx">Amazon Sales Dataset</a>
  ## Key Performance Indicators (KPIs):
- - Currency (INR): Indicates that all sales values are represented in Indian Rupees.
+ - Currency: Indicates that all sales values are represented in Indian Rupees.
  - Total Quantity: Shows the total number of units sold across all orders.
  - Total Amount: Represents the overall revenue generated from sales.
  - Total Sizes: Indicates the number of distinct product sizes available.
